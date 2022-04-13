@@ -21,6 +21,8 @@
 // Split Keyboard specifics
 #define SOFT_SERIAL_PIN D3
 #define SELECT_SOFT_SERIAL_SPEED 1
+#define SPLIT_HAND_PIN B7
+#define SPLIT_HAND_PIN_LOW_IS_LEFT  // connected device will right side.
 
 // Feature diable options
 //#define NO_DEBUG
